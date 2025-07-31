@@ -14,7 +14,7 @@
 
 <br/>
 
-Me chamo Pedro Henrique, tenho 21 anos e sou da Bahia. Concluí o ensino médio no CEBB e possuo certificado técnico em Desenvolvimento de Software cedido pelo SENAI. Atualmente estou cursando Ciências da Computação na UNIFACS. Tecnologia é algo que gosto muito desde pequeno então resolvi seguir carreira, pretendo me especializar em inteligência artificial.
+Me chamo Pedro Henrique, tenho 21 anos e sou da Bahia. Possuo certificado técnico em Desenvolvimento de Software cedido pelo SENAI e atualmente estou cursando Ciências da Computação na UNIFACS. Tecnologia é algo que gosto muito desde pequeno então resolvi seguir carreira, pretendo me especializar em inteligência artificial.
 
 <p align="left">
     <a href="https://github.com/Pdr-h?tab=repositories&sort=stargazers">
